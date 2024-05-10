@@ -1,7 +1,7 @@
 # react-microfrontends-template
 
-**Main-App is using Container React component from MicroFrontend app.**
-React Project created manually.
+**Main-App is using React component Container from MicroFrontend app.**   
+React Project created manually (create-react-app or other tools not used).
 
 ## Made with:
 - Youtube tutorial: [Module Federation in React | React Micro Frontend](https://www.youtube.com/watch?v=-LMQKc4bVSk&ab_channel=AVDojo "Module Federation in React | React Micro Frontend") 
